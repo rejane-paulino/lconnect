@@ -10,7 +10,7 @@ To run the LCONNECT, it is necessary a suitable installation and use of the envi
             conda env create -f environment.yml
             conda activate lconnect
             cd into the lconnect directory
-            python api_superdove.py (or python api_msi.py)
+            python api.py
 
 ## Input Parameters:
 The input patameters must be manualy filled in the file `parameters.txt`. LCONNECT framework requires different input data: `path_IMG path_CLOUD path_gridPoint path_ROI path_OUTPUT sensor`     
