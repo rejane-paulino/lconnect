@@ -23,23 +23,25 @@ The input patameters must be manualy filled in the file `parameters.txt`. LCONNE
 * *sensor:* applied sensor (`sd` or `msi`). 
         
 ## Output Parameters:
-Two files .csv are available in `path_OUTPUT`: `reference_spectra.csv` and `OutputLakesParameters.csv
+Two files .csv are available in *path_OUTPUT*: `reference_spectra.csv` and `OutputLakesParameters.csv`.
 
 * *reference_spectra:* reference spectra obtained from reference waterbody (monthly average);
-* *OutputLakesParameters:* lakes' parameters obtained after classification. In this file there are information about: `date`, `id_lake`, `spectral similarity features`, `lakes spectra`, `hydrological connectivity or Conn`.
+* *OutputLakesParameters:* target waterbody parameters obtained after classification. In this file there are information about: `date`, `id_lake`, `spectral similarity features`, `lakes spectra`, `hydrological connectivity or Conn`.
 
 > The `hydrological connectivity` is represented by values 0-not-connected and 1-connected.      
 
 ## Warning:
-> The images .TIFF (in `path_IMG`) must be stacked.
+* The images .TIFF (in *path_IMG*) must be stacked.
 
-> The `msi` images must be in surface reflectance (from 0 to 1).
+* The `msi` images must be in surface reflectance (from 0 to 1).
 
-> The `sd` images must be in surface reflectance (from 0 to 10,000).
+* The `sd` images must be in surface reflectance (from 0 to 10,000).
 
-> Spectral bands used for `SuperDove`: `B441 B490 B531 B565 B610 B665 B705 B865`.
+* Spectral bands used for `SuperDove`: `B441 B490 B531 B565 B610 B665 B705 B865`.
 
-> Spectral bands used for `MSI/Sentinel-2`: `B490 B560 B665 B705 B740 B783 B842`      
+* Spectral bands used for `MSI/Sentinel-2`: `B490 B560 B665 B705 B740 B783 B842`.
 
+## Reference:
+Paulino, R.; Martins, V.; Novo, E.; Maciel, D.; Correia-Lima, D.; Barbosa, C.; Bonnet, M.; Uhde, A. A framework based on spectral similarity to estimate hydrological connectivity in Juruá River floodplain lakes using 3-m PlanetScope data. (under review)              
 
 
