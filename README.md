@@ -10,7 +10,7 @@ To run the LCONNECT, it is necessary a suitable installation and use of the envi
             conda env create -f environment.yml
             conda activate lconnect
             cd into the lconnect directory
-            <span style="color: #ff0000">python api_superdove.py</span> or python api_msi.py
+            ```-python api_superdove.py``` or python api_msi.py
 
 		
 
