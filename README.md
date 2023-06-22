@@ -26,7 +26,7 @@ The input patameters must be manualy filled in the file `parameters.txt`. L-CONN
 Two files .csv are available in *path_OUTPUT*: `reference_spectra.csv` and `OutputLakesParameters.csv`.
 
 * *reference_spectra:* reference spectra obtained from reference waterbody (monthly average);
-* *OutputLakesParameters:* target waterbody parameters obtained after classification. In this file there are information about: `date`, `id_lake`, `spectral similarity features`, `lakes spectra`, `hydrological connectivity or Conn`.
+* *OutputLakesParameters:* target waterbody parameters obtained after classification. In this file, there are information about: `date`, `id_lake`, `spectral similarity features`, `lakes spectra`, `hydrological connectivity or Conn`.
 
 > The `hydrological connectivity` is represented by values 0-not-connected and 1-connected.      
 
