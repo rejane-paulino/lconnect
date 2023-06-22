@@ -1,0 +1,7 @@
+parameter;			answer
+path_IMG;			C:\Users\rejane.paulino\Downloads\imgs
+path_CLOUD;			C:\Users\rejane.paulino\Downloads\imgs
+path_gridPoint (.shp);		C:\Users\rejane.paulino\Downloads\shp\juruaGrid_sR.shp
+path_ROI (.shp);		C:\Users\rejane.paulino\Downloads\shp\cLakes_.shp
+path_OUTPUT;			C:\Users\rejane.paulino\Downloads\shp
+sensor (sd or msi);		sd 
