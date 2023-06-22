@@ -5,20 +5,31 @@ LCONNECT framework combines machine learning algorithms and spectral similarity 
 ## Requirements and Installation:
 LCONNECT framework is coded in Python 3.8 and it requires Python packages to run: `numpy pandas geopandas rasterio gdal`
 
-To run the LCONNECT, it is necessary a suitable installation and use of the environment `lconnect` through command prompt:
+To run the LCONNECT, it is necessary a suitable installation and use of the environment `lconnect` by command line:
 
             conda env create -f environment.yml
             conda activate lconnect
             cd into the lconnect directory
             python api_superdove.py (or python api_msi.py)
 
-## Data:
-LCONNECT  
+## Input Parameters:
+The input patameters must be manualy filled in the file `parameters.txt`. LCONNECT framework requires different input data: `path_IMG path_CLOUD path_gridPoint path_ROI path_OUTPUT sensor`     
+
+> Consider the description below for best experience with LCONNEC.
+
+* *path_IMG:* directory with images;
+* *path_CLOUD:* directory with cloud masks - udm2 (only SUPERDOVE data);
+* *path_gridPoint:* path with file of points (in shapefile) from reference waterbody (e.g., river);
+* *path_ROI:* path with file of polygons (in shapefile) from target waterbody (e.g., lakes); 
+* *path_OUTPUT:* output directory;
+* *sensor:* applied sensor (sd or msi). 
+
+## Outuput Parameters:
 
 
 
 
 
- 
+ `path_IMG path_CLOUD path_gridPoint path_ROI path_OUTPUT sensor`
 
 
