@@ -24,9 +24,13 @@ The input patameters must be manualy filled in the file `parameters.txt`. LCONNE
 
 ### Warning:
 > The images .TIFF (in `path_IMG`) must be stacked.
+
 > The `msi` images must be in surface reflectance (from 0 to 1).
+
 > The `sd` images must be in surface reflectance (from 0 to 10,000).
-> Spectral bands used for `SuperDove`: `B441 B490 B531 B565 B610 B665 B705 B865`
+
+> Spectral bands used for `SuperDove`: `B441 B490 B531 B565 B610 B665 B705 B865`.
+
 > Spectral bands used for `MSI/Sentinel-2`: `B490 B560 B665 B705 B740 B783 B842`           
 
 ## Output Parameters:
