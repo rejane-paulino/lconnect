@@ -16,11 +16,11 @@ Code to apply LCONNECT to SuperDove data:
 
 
 # {Input}:
-path_IMG = r"C:\Users\rejane.paulino\Downloads\imgs"
-path_CLOUD = r"C:\Users\rejane.paulino\Downloads\imgs"
-path_gridPoint = r"C:\Users\rejane.paulino\Downloads\shp\juruaGrid_sR.shp"
-path_ROI = r"C:\Users\rejane.paulino\Downloads\shp\juruaGrid_sR.shp"
-path_OUTPUT = r'C:\Users\rejane.paulino\Downloads\shp'
+path_IMG = r"C:\..."
+path_CLOUD = r"C:\..."
+path_gridPoint = r"C:\..."
+path_ROI = r"C:\..."
+path_OUTPUT = r'C:\...'
 sensor = SATELLITE.SUPERDOVE
 
 
