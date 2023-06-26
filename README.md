@@ -2,7 +2,7 @@
 
 L-CONNECT framework combines machine learning algorithms and spectral similarity features to predict water surface connectivity between floodplain lakes and their main river. The assumption is that the spectral similarity between river and lake waters is a good proxy for hydrological connectivity. This methodology applies when the main river drives the changes in the optical water properties (i.e., flux of high sediment load waters) of its flooding lakes. Here, hydrological connectivity means the dynamic flow interactions between large rivers during the flooding season and their floodplain lakes, which occurs by channelized and diffuse overbank flows, and affects surface water connectivity.
 
-## Requirements and Installation:
+## Requirements and Usage:
 L-CONNECT framework is coded in Python 3.8 and it requires Python packages to run: `numpy`, `pandas`, `geopandas`, `rasterio`, `gdal`.
 
 To run the L-CONNECT, it is necessary a suitable use of the environment `lconnect` by command line:
