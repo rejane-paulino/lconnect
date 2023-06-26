@@ -30,7 +30,7 @@ Two files .csv are available in *path_OUTPUT*: `reference_spectra.csv` and `Outp
 
 > The `hydrological connectivity` is represented by values 0-not-connected and 1-connected.      
 
-## Warning:
+## Notes:
 * The images .TIFF (in *path_IMG*) must be stacked;
 
 * The `msi` images must be identified with YYYYMMDD; 
