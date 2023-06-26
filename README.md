@@ -13,7 +13,7 @@ To run the L-CONNECT, it is necessary a suitable use of the environment `lconnec
             python api.py
 
 ## Input Parameters:
-The input parameters must be manualy filled in the file `parameters.txt`. L-CONNECT framework requires different input data: `path_IMG path_CLOUD path_gridPoint path_ROI path_OUTPUT sensor`     
+The input parameters must be manualy filled in the file `parameters.txt`. L-CONNECT framework requires different input data: `path_IMG`, `path_CLOUD`, `path_gridPoint`, `path_ROI`, `path_OUTPUT`, `sensor`.     
 
 * *path_IMG:* directory with images;
 * *path_CLOUD:* directory with cloud masks - udm2 (only `SuperDove` data);
