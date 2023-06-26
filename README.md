@@ -1,5 +1,5 @@
 # L-CONNECT (river-Lake CONNECTivity) <img src="img/lconnect.svg" width="150" align="right" />
-![Version](https://img.shields.io/badge/version-v.0.0.1-blue)
+![Version](https://img.shields.io/badge/version-v0.0.1-blue)
 ![License](https://img.shields.io/badge/license-GPL%203.0-blue)
 ![Language](https://img.shields.io/badge/language-Python-blue)
 
