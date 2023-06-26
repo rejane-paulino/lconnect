@@ -1,9 +1,7 @@
 # L-CONNECT (river-Lake CONNECTivity) <img src="img/lconnect.svg" width="150" align="right" />
-![Version](https://img.shields.io/badge/https://img.shields.io/badge/version-v.0.0.1-blue)
+![Version](https://img.shields.io/badge/version-v.0.0.1-blue)
 ![License](https://img.shields.io/badge/license-GPL%203.0-blue)
 ![Language](https://img.shields.io/badge/language-Python-blue)
-
-
 
 L-CONNECT framework combines machine learning algorithms and spectral similarity features to predict water surface connectivity between floodplain lakes and their main river. The assumption is that the spectral similarity between river and lake waters is a good proxy for hydrological connectivity. This methodology applies when the main river drives the changes in the optical water properties (i.e., flux of high sediment load waters) of its flooding lakes. Here, hydrological connectivity means the dynamic flow interactions between large rivers during the flooding season and their floodplain lakes, which occurs by channelized and diffuse overbank flows, and affects surface water connectivity.
 
