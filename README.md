@@ -47,6 +47,8 @@ Two files .csv are available in *path_OUTPUT*: `reference_spectra.csv` and `Outp
 * Spectral bands used for `MSI/Sentinel-2`: `B490`, `B560`, `B665`, `B705`, `B740`, `B783`, `B842`.
 
 ## Reference:
-Paulino, R.; Martins, V.; Novo, E.; Maciel, D.; Correia-Lima, D.; Barbosa, C.; Bonnet, M.; Uhde, A. A framework based on spectral similarity to estimate hydrological connectivity in Juruá River floodplain lakes using 3-m PlanetScope data. (under review)              
+Rejane S. Paulino, Vitor S. Martins, Evlyn M.L.M. Novo, Daniel A. Maciel, Deborah L. Correia-Lima, Claudio C.F. Barbosa, Marie P. Bonnet, Antje Uhde,
+A framework based on spectral similarity to estimate hydrological connectivity in Juruá River floodplain lakes using 3-m PlanetScope data.
+Journal of Hydrology, v. 625, 130156, 2023. (https://doi.org/10.1016/j.jhydrol.2023.130156)
 
 
